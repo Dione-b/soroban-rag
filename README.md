@@ -1,2 +1,2 @@
-# newsletter-tech
-Newsletters on technology issues
+# Soroban RAG
+Soroban study with RAG on technology issues
